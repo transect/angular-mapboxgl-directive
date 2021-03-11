@@ -1,0 +1,74 @@
+{
+  "_args": [
+    [
+      "angular-mapboxgl-directive@git+https://github.com/coltonbrugger/angular-mapboxgl-directive.git#master",
+      "/Users/matthewcarter/workspace/transect"
+    ]
+  ],
+  "_from": "angular-mapboxgl-directive@https://github.com/coltonbrugger/angular-mapboxgl-directive#master",
+  "_id": "angular-mapboxgl-directive@git+ssh://git@github.com/coltonbrugger/angular-mapboxgl-directive.git#3d4861c486289ae6698d1419f9f4d1abbca24674",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/angular-mapboxgl-directive",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "angular-mapboxgl-directive@https://github.com/coltonbrugger/angular-mapboxgl-directive#master",
+    "name": "angular-mapboxgl-directive",
+    "escapedName": "angular-mapboxgl-directive",
+    "rawSpec": "https://github.com/coltonbrugger/angular-mapboxgl-directive#master",
+    "saveSpec": "git+https://github.com/coltonbrugger/angular-mapboxgl-directive.git#master",
+    "fetchSpec": "https://github.com/coltonbrugger/angular-mapboxgl-directive.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@github.com/coltonbrugger/angular-mapboxgl-directive.git#3d4861c486289ae6698d1419f9f4d1abbca24674",
+  "_spec": "https://github.com/coltonbrugger/angular-mapboxgl-directive#master",
+  "_where": "/Users/matthewcarter/workspace/transect",
+  "author": {
+    "name": "https://github.com/Naimikan/angular-mapboxgl-directive/graphs/contributors"
+  },
+  "bugs": {
+    "url": "https://github.com/Naimikan/angular-mapboxgl-directive/issues"
+  },
+  "dependencies": {
+    "angular": ">=1.5",
+    "mapbox-gl": ">=1.7"
+  },
+  "description": "An AngularJS directive for Mapbox GL",
+  "devDependencies": {
+    "connect-livereload": "^0.5.4",
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "load-grunt-config": "^0.19.2"
+  },
+  "homepage": "https://naimikan.github.io/angular-mapboxgl-directive/",
+  "keywords": [
+    "webgl",
+    "angularjs",
+    "mapbox",
+    "mapboxgl",
+    "javascript",
+    "directive",
+    "cli"
+  ],
+  "license": "MIT",
+  "main": "dist/angular-mapboxgl-directive.min.js",
+  "name": "angular-mapboxgl-directive",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naimikan/angular-mapboxgl-directive.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.7.0"
+}
